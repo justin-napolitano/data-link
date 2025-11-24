@@ -1,12 +1,26 @@
 ---
-slug: "github-data-link"
-title: "data-link"
-repo: "justin-napolitano/data-link"
-githubUrl: "https://github.com/justin-napolitano/data-link"
-generatedAt: "2025-11-23T08:50:53.145440Z"
-source: "github-auto"
+slug: github-data-link
+title: Python Framework for Nasdaq Data Link API Data Retrieval
+repo: justin-napolitano/data-link
+githubUrl: https://github.com/justin-napolitano/data-link
+generatedAt: '2025-11-23T08:50:53.145440Z'
+source: github-auto
+summary: >-
+  Framework providing Python functions and notebooks to simplify financial data access using the
+  Nasdaq Data Link API and nasdaqdatalink client.
+tags:
+  - nasdaq-data-link
+  - python
+  - financial-data
+  - api-client
+  - data-analysis
+seoPrimaryKeyword: nasdaq data link api
+seoSecondaryKeywords:
+  - python nasdaqdatalink
+  - financial data retrieval
+  - api key management
+seoOptimized: true
 ---
-
 
 # Technical Overview of data-link
 
@@ -57,3 +71,4 @@ For maintainability and scalability, the project would benefit from:
 ## Conclusion
 
 The data-link project provides a foundational framework for interacting with the Nasdaq Data Link API, focusing on ease of use and integration with Python-based data analysis workflows. Its structure supports extension and adaptation to varied financial and industrial data contexts, serving as a practical reference for developers working with market data APIs.
+
