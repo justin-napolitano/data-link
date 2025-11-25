@@ -1,18 +1,24 @@
 ---
 slug: github-data-link
 id: github-data-link
-title: data-link
+title: Download Data from Nasdaq Data Link API with Python
 repo: justin-napolitano/data-link
 githubUrl: https://github.com/justin-napolitano/data-link
 generatedAt: '2025-11-24T21:34:31.155Z'
 source: github-auto
 summary: >-
-  Tool to download data from the Nasdaq Data Link API, implemented primarily in
-  Jupyter Notebooks and Python scripts.
-tags: []
-seoPrimaryKeyword: ''
-seoSecondaryKeywords: []
-seoOptimized: false
+  A tool for fetching data from the Nasdaq Data Link API using Python and
+  Jupyter Notebooks.
+tags:
+  - python
+seoPrimaryKeyword: nasdaq data link api tool
+seoSecondaryKeywords:
+  - python data fetching
+  - jupyter notebook examples
+  - financial data analysis
+  - freight rail datasets
+  - api key management
+seoOptimized: true
 topicFamily: null
 topicFamilyConfidence: null
 kind: project
