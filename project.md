@@ -7,8 +7,8 @@ githubUrl: https://github.com/justin-napolitano/data-link
 generatedAt: '2025-11-24T21:34:31.155Z'
 source: github-auto
 summary: >-
-  A straightforward tool for fetching data from the Nasdaq Data Link API using
-  Python and Jupyter Notebooks.
+  A straightforward tool for fetching data from the Nasdaq Data Link API using Python and Jupyter
+  Notebooks.
 tags:
   - python
   - jupyter
@@ -21,8 +21,8 @@ seoSecondaryKeywords:
   - financial data extraction
   - freight rail data analysis
 seoOptimized: true
-topicFamily: null
-topicFamilyConfidence: null
+topicFamily: datascience
+topicFamilyConfidence: 0.9
 kind: project
 entryLayout: project
 showInProjects: true
@@ -108,5 +108,6 @@ Repository URL: [https://github.com/justin-napolitano/data-link](https://github.
 ---
 
 ---
+
 
 
